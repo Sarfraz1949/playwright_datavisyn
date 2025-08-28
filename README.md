@@ -1,4 +1,4 @@
-1. Open the Microsoft Playwright GitHub repository: [Sarfraz1949/playwright_datavisyn](https://github.com/Sarfraz1949/playwright_datavisyn)
+1. Open the Playwright GitHub repository: [Sarfraz1949/playwright_datavisyn](https://github.com/Sarfraz1949/playwright_datavisyn)
 2. By following page click on "Actions"(on the top)
 3. Click on „Playwright Tests“ (on the left)
 4. Click on "Update playwright.yml" (in the middle)
